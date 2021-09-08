@@ -3,6 +3,8 @@
 
 ### Installation
 git clone https://github.com/shandli123/school-managment-application.git
+
+
 Run npm install
 
 Run on the browser using npm start
